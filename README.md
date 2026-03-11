@@ -26,4 +26,4 @@ UX/UI design for cybersecurity tools.
 
 Translating technical risks into easy-to-understand metrics.
 
-Built with dedication by Shayyan
+-- Built with dedication by Shayyan
