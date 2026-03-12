@@ -25,5 +25,3 @@ Logic implementation for security validation.
 UX/UI design for cybersecurity tools.
 
 Translating technical risks into easy-to-understand metrics.
-
-# Built with dedication by Shayyan
